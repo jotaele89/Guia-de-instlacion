@@ -1,0 +1,3 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Oracle Linux modo Terminal}{2}{section.0.1}
+\contentsline {section}{\numberline {2}Windows Server }{22}{section.0.2}
